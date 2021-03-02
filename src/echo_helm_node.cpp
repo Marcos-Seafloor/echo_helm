@@ -17,7 +17,7 @@
 #include <mavros_msgs/SetMode.h>
 #include <mavros_msgs/SetMavFrame.h>
 #include <mavros_msgs/State.h>
-#include "project11_mods/gz4d_geo.h"
+#include "project11/gz4d_geo.h"
 #include <regex>
 #include "boost/date_time/posix_time/posix_time.hpp"
 
